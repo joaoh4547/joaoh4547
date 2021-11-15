@@ -5,8 +5,12 @@
 \
 \
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh4547&layout=compact&theme=dracula)
-
+\
+\
 ![tops](https://github-profile-trophy.vercel.app/?username=joaoh4547)
+\
+\
+\
 Sobre mim:
 
 - Nome: João Henrique Teixeira de Jesus
