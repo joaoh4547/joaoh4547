@@ -18,20 +18,19 @@ Sobre mim:
 - Telefone (17) 99655-8594
 - E-mail : joaohenriquetdj@gmail.com
 
-Conhecimento nas Linguagens
-
-- Java 
-- C# 
-- Javascript 
-- Typescript 
-- Python
-
 Conhecimentos nas Tecnologias
-- Spring Boot
-- .NET Core
-- Entity Framework
-- JPA
-- Node
-- React
-- Angular
+| Nome | Tipo | Nivel |
+|---|---|---|
+| C# | Linguagem| Intermediario|
+|Java | Linguagem | Intermediario|
+|Python | Linguagem | Intermediario|
+|Javascript | Linguagem | Intermediario|
+|Typescript | Linguagem | Intermediario|
+| Spring Boot | Framework| Intermediario |
+| Entity Framework | Framework | Intermediario |
+| Angular | Framework | Intermediario |
+| JPA | Framework | Basico |
+| .NET | Plataforma | Intermediario |
+| Node | Plataforma | Basico |
+| React | Biblioteca | Intermediario|
 
