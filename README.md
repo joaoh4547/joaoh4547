@@ -17,11 +17,12 @@ Nome: João Henrique Teixeira de Jesus
 \
 \
 ![tops](https://github-profile-trophy.vercel.app/?username=joaoh4547)
-\
+
+
 
 
 Conhecimentos nas Tecnologias
-\
+
 \
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
