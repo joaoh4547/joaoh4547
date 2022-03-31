@@ -1,5 +1,5 @@
 
-Nome: João Henrique Teixeira de Jesus
+### Nome: João Henrique Teixeira de Jesus
 \
 \
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-teixeira-de-jesus-87302816a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -21,7 +21,7 @@ Nome: João Henrique Teixeira de Jesus
 
 
 
-Conhecimentos nas Tecnologias
+#### Conhecimentos nas Tecnologias
 
 \
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
