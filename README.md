@@ -1,5 +1,6 @@
 
-### Nome: João Henrique Teixeira de Jesus
+### <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joão-henrique-teixeira-de-jesus-87302816a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jo%C3%A3o-henrique-teixeira-de-jesus-87302816a?trk=profile-badge">João Henrique Teixeira de Jesus</a></div>
+              
 \
 \
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-teixeira-de-jesus-87302816a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
