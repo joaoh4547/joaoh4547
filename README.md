@@ -4,16 +4,10 @@
 \
 \
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-teixeira-de-jesus-87302816a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-\
 <a href="mailto:joaohenriquetdj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-\
 <a href="https://api.whatsapp.com/send?phone=+5517996558594"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ![Stars](https://github-readme-stats.vercel.app/api?username=joaoh4547&show_icons=true&theme=dracula)
-\
-\
-\
-\
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh4547&layout=compact&theme=dracula)
 \
 \
