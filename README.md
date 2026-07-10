@@ -11,7 +11,7 @@
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joaoh4547&layout=compact&theme=dracula)
 \
 \
-![tops](https://github-profile-trophy.vercel.app/?username=joaoh4547)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaoh4547&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
