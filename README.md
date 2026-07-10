@@ -7,12 +7,11 @@
 <a href="mailto:joaohenriquetdj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=+5517996558594"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-![Stars](https://github-stats-extended.vercel.app/api?username=joaoh4547&show_icons=true&theme=dracula)
-\
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joaoh4547&layout=compact&theme=dracula)
+![Stars](https://github-stats-extended.vercel.app/api?username=joaoh4547&show_icons=true&theme=ambient_gradient)
 \
 \
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaoh4547&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joaoh4547&layout=compact&theme=radical)
+
 
 
 
