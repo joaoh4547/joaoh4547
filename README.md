@@ -8,6 +8,7 @@
 <a href="https://api.whatsapp.com/send?phone=+5517996558594"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ![Stars](https://github-stats-extended.vercel.app/api?username=joaoh4547&show_icons=true&theme=dracula)
+\
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joaoh4547&layout=compact&theme=dracula)
 \
 \
